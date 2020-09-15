@@ -40,5 +40,8 @@ Daniel Friedman, David Thrane Christiansen
 
 * Papers
 
+** [[http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.35.9758][Inductive and Coinductive Types with Iteration and Recursion]]
+Herman Geuvers (1992)
+
 ** [[https://arxiv.org/abs/2009.05539][A general definition of dependent type theories]]
 Andrej Bauer, Philipp G. Haselwarter, Peter LeFanu Lumsdaine
