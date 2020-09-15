@@ -14,6 +14,12 @@ A catalogue of the history of type theory as it evolved
 
 * Hindley - Milner
 
+* Martin Löf
+
+* Homotopy Type Theory
+
+* Dependent Types
+
 * Concepts
 
 ** Simply Typed
@@ -22,6 +28,7 @@ A catalogue of the history of type theory as it evolved
 
 * Resources
 
+* Books
 ** [[https://amzn.to/2RqJ0UM][Type Theory and Formal Proof]]
 Herman Nederpelt, Rob Geuvers
 
@@ -31,4 +38,7 @@ Benjamin Pierce
 ** [[https://amzn.to/3hxWHfj][The Little Typer]]
 Daniel Friedman, David Thrane Christiansen
 
+* Papers
 
+** [[https://arxiv.org/abs/2009.05539][A general definition of dependent type theories]]
+Andrej Bauer, Philipp G. Haselwarter, Peter LeFanu Lumsdaine
