@@ -16,6 +16,11 @@ A catalogue of the history of type theory as it evolved
 
 * Martin Löf
 
+* John Reynolds
+
+** Relational Parametricity
+** Poly
+
 * Homotopy Type Theory
 
 * Dependent Types
@@ -39,6 +44,9 @@ Benjamin Pierce
 Daniel Friedman, David Thrane Christiansen
 
 * Papers
+
+** [[http://www.cs.cmu.edu/afs/cs/user/jcr/ftp/typesabpara.pdf][Types, Abstraction, and Parametric Polymorphism]]
+John Reynolds (1983)
 
 ** [[http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.35.9758][Inductive and Coinductive Types with Iteration and Recursion]]
 Herman Geuvers (1992)
