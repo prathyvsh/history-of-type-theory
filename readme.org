@@ -1,0 +1,34 @@
+* History of Type Theory
+
+A catalogue of the history of type theory as it evolved
+
+* Timeline
+
+* Russell / Whitehead
+
+* Curry
+
+* Lambda Calculus with Types
+
+* AUTOMATH
+
+* Hindley - Milner
+
+* Concepts
+
+** Simply Typed
+** Impredicativity
+** Stratification
+
+* Resources
+
+** [[https://amzn.to/2RqJ0UM][Type Theory and Formal Proof]]
+Herman Nederpelt, Rob Geuvers
+
+** [[https://amzn.to/3mj7j5n][Types and Programming Languages]]
+Benjamin Pierce
+
+** [[https://amzn.to/3hxWHfj][The Little Typer]]
+Daniel Friedman, David Thrane Christiansen
+
+
