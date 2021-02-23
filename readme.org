@@ -2,6 +2,11 @@
 
 A catalogue of the history of type theory as it evolved
 
+Type theory can be thought to be as a theory of constructions. Dependent types make this theory of dependent constructions.
+Euclid’s geometrical proofs do both construction and then deduce the true propositions from them.
+
+There are influential philosophy of mathematics in this line such as intuitionism and constructivism which provide support to using theory of types as a foundation of mathematics. Type theory restricts its language to only the things that has been constructed. This means that when there are judgements in type theory, it is about things that has been constructed or when two constructions are equal, not when something is not a type.
+
 * Timeline
 
 * Russell / Whitehead
